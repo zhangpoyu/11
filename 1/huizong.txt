@@ -1,0 +1,2 @@
+CNO :60018      ||CSTATE :kaitong ||SNO :1304010407 ||SNAME :panziyi ||SDEPT :wuli ||SJIANJI : 15ji  ||  SCLASS  :  5ban ||  
+

@@ -1,0 +1,10 @@
+BNAME:jiarugeiwosantian||
+BSTARTIME:20161011     ||
+BTIME:28               ||
+BADDR:xiquzhengwenguan ||                
+BSTATE:yihuan          ||
+BNAME:beicanshijie     ||
+BSTARTIME:20161011     ||  
+BTIME:28               ||
+BADDR:xiquzhengwenguan ||               
+BSTATE:yihuan          ||
